@@ -1,5 +1,5 @@
-#Brian Segoviano Muñoz
-
+# Brian Segoviano Muñoz
+# 20240621
 from pydantic import BaseModel
 from typing import List
 import requests
